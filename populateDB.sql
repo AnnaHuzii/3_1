@@ -8,9 +8,9 @@ INSERT INTO skills (industry, skill_level) VALUES
 ('C#',  'Junior'),
 ('C#',  'Middle'),
 ('C#',  'Senior'),
-('1C',  'Junior'),
-('1C',  'Middle'),
-('1C',  'Senior');
+('JS',  'Junior'),
+('JS',  'Middle'),
+('JS',  'Senior');
 
 INSERT INTO companies (name, description) VALUES
 ('RASK In-AGRO', 'The company implements and maintains IT management and accounting systems for industrial and agricultural enterprises'),
